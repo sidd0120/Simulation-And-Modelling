@@ -1,0 +1,9 @@
+x = rand(100)
+
+y = mean(x)
+y = median(x)
+//x = mode(x)
+y = mode()
+y = stdev(x)
+variance(x)
+coeff(x)
